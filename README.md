@@ -18,7 +18,7 @@
 - 🔧 Check out some of my projects below to see what I've been working on lately!
 
 ## Skills
-- 💡 Proficient in Java, Python, HTML/CSS, and JavaScript.
+- 💡 Familiar with Java, Python, HTML/CSS, and JavaScript.
 - 🛠️ Familiar with various development tools and frameworks, including Git, React, and TensorFlow.
 
 ## Let's Connect!
