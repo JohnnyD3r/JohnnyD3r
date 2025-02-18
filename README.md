@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Yannis Derventzis!
 
 ## About Me
-- 🎓 I'm a 20-year-old student pursuing a degree in Computer Science & Telecommunications at the University of Thessaly, Greece.
+- 🎓 I'm a 21-year-old student pursuing a degree in Computer Science & Telecommunications at the University of Thessaly, Greece.
 - 💻 Passionate about software development, I've been actively learning various programming languages and honing my skills over the past two years.
 - 🌱 I'm currently exploring topics like machine learning, web development, and cybersecurity to broaden my knowledge and expertise.
 - 🎸 When I'm not coding, you can find me strumming my guitar or diving into a captivating book while listening to some tunes.
