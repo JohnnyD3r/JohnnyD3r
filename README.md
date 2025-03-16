@@ -8,14 +8,10 @@
 
 ## Get in Touch
 - 📫 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/iderventzis/) or [Instagram](https://www.instagram.com/yand3r._/).
-- 💬 Let's collaborate on exciting projects or discuss tech ideas! Drop me a message anytime.
 
 ## My Goals
 - 🚀 I'm on a mission to contribute positively to the tech community through innovative projects and meaningful collaborations.
 - 🌟 Committed to continuous growth, I'm eager to explore emerging technologies and leverage them to make a positive impact.
-
-## Projects
-- 🔧 Check out some of my projects below to see what I've been working on lately!
 
 ## Skills
 - 💡 Familiar with Java, Python, HTML/CSS, and JavaScript.
