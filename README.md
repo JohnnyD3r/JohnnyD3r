@@ -11,7 +11,6 @@
   <a href="https://www.instagram.com/your-instagram-username/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge&color=brightgreen" alt="profile views"/>
 </p>
 
 ---
